@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-07-23T05:13:52.363955801Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-07-24T05:43:05.835187657Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "8481f572-9dfc-4167-a55f-9f402aee5da2",
     "homepageId": "1241af1e-0212-4abd-8863-6763e635204f"
@@ -26,7 +26,7 @@
     "city": "가평군",
     "domain": "ongijongi.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12303",
-    "ybsId": "",
+    "ybsId": "76599",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
